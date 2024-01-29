@@ -1,0 +1,3 @@
+# Dependency directories
+.husky
+node_modules/
