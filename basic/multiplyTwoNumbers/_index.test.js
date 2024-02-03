@@ -35,9 +35,3 @@ describe('Проверка multiplyTwoNumbers', () => {
     });
   });
 });
-
-// test('Правильно прибавляет единицу к каждому элементу массива', () => {
-//   mocks.forEach(({ arr, result }) => {
-//     expect(getPlusOneArr(arr)).toEqual(result);
-//   });
-// });
