@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --testPathIgnorePatterns=[^_*]+",
-    "test:watch": "jest --watch --testPathIgnorePatterns=[^_*]+"
+    "test": "jest --testPathIgnorePatterns=[_*]+",
+    "test:watch": "jest --watchAll --testPathIgnorePatterns=[_*]+"
   },
   "author": "Oleg Ivinskii",
   "license": "ISC",
